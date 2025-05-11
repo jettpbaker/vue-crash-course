@@ -1,35 +1,17 @@
-# crash-course
+My code for following Brad Traversy's [Vue Crash Course](https://www.youtube.com/watch?v=VeNfHj6MhgA&list=PL6Yea00r2tjXMpqsrjYXjQzdOhXQS0ALU)
 
-This template should help get you started developing with Vue 3 in Vite.
+## To run if for some reason you want to:
 
-## Recommended IDE Setup
-
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
-
-## Customize configuration
-
-See [Vite Configuration Reference](https://vite.dev/config/).
-
-## Project Setup
-
-```sh
+```bash
 pnpm install
 ```
 
-### Compile and Hot-Reload for Development
-
-```sh
-pnpm dev
+Run JSON Server
+```
+pnpm run server
 ```
 
-### Compile and Minify for Production
-
-```sh
-pnpm build
+Run Frontend
 ```
-
-### Lint with [ESLint](https://eslint.org/)
-
-```sh
-pnpm lint
+pnpm run dev
 ```
